@@ -158,7 +158,7 @@ st.markdown(
     - Explore and see the data for Car Prediction.
     - Choose from a variety of graphs both normal and 3D visualizations.
     
-    *Built with Streamlit,Pandas,Numpy,Plotly,Seaborn,Matplotlib.*
+    *Built with Streamlit, Pandas, Numpy, Plotly, Seaborn, Matplotlib.*
     
     *Created By: Yusuf Tajwar*
     """
